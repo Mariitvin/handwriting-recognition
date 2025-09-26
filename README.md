@@ -1,7 +1,9 @@
 # ✍️ Handwriting Recognition  
 _Система распознавания рукописного текста и рисунков_
 
-<img src="66fe5369a9811f0843cb68d2e1cd5ec_1.jpeg" width="300">
+<p align="center">
+  <img src="66fe5369a9811f0843cb68d2e1cd5ec_1.jpeg" width="300">
+</p>
 
 
 ---
