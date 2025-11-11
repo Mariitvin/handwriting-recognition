@@ -14,6 +14,12 @@ _Система распознавания рукописного текста �
 а система с помощью машинного обучения распознает цифры, рисунки.
 
 ---
+
+
+## Дизайн в figma
+[Посмотреть макет в Figma](https://www.figma.com/design/aFM9khjv1pqjrGtMXgLWD0/design?node-id=0-1&t=nMfFKN81LQzo4Spn-1)
+
+---
 ## 👨‍💻 Разработчики
 
 - [Краснова Карина](https://github.com/KarinaKrasnova19)
@@ -29,12 +35,9 @@ _Система распознавания рукописного текста �
 
 ---
 
-## 🛠 Технологии
+## 🛠 Технологии (будут дополняться)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow)  
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)  
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)  
-![Docker](https://img.shields.io/badge/Docker-Deploy-blue?logo=docker)  
+ 
 
 
 
