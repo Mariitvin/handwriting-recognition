@@ -36,9 +36,22 @@ _Система распознавания рукописного текста �
 ---
 
 ## 🛠 Технологии (будут дополняться)
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
- 
+### 🧠 Backend & Machine Learning
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML-orange?logo=pytorch)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?logo=html5)
+
+### 🗄️ База данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql)
+
+### 🔄 Работа с данными и изображениями
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red?logo=python)
+![Pillow](https://img.shields.io/badge/Pillow-Images-3776AB)
 
 
 
