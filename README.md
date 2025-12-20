@@ -35,7 +35,7 @@ _Система распознавания рукописного текста �
 
 ---
 
-## 🛠 Технологии (будут дополняться)
+## 🛠 Технологии
 ### 🧠 Backend & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi)
